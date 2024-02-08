@@ -1,0 +1,4 @@
+ - DockerHelper folder contains the powershell module
+ - DockerFiles folder contains:
+   - Dockerfile - for building the docker image
+   - Fibonacci.ps1 script, located in Prerequisites folder, needed for the image building process
